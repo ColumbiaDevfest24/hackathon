@@ -1,5 +1,5 @@
-## Inspiration
-HEP -- During a volunteering session to help a local migrant shelter with the Housing Equity Club, we noticed that resources for the shelter are often geared towards opportunities for volunteers to help
+## Inspiration (HEP)
+During a volunteering session to help a local migrant shelter with the Housing Equity Club, we noticed that resources for the shelter are often geared towards opportunities for volunteers to help
 (or externally linked to other volunteer websites). There is a lack of resources for the migrants themselves, which is what inspired us to create this project.
 
 ## What it does
