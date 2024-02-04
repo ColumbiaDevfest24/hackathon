@@ -21,7 +21,9 @@ class OrganizationDataTable(models.Model):
     contact_num = models.PositiveIntegerField()
     contact_email = models.EmailField(max_length=200)
     days = models.DateTimeField()
-    
+#in terminal, would need to then run "py manage.py makemigrations organizations" to actually create
+#this table in the database
+
 class OrganizationInfo:
     def __init__(self):
         self._name=''
