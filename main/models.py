@@ -9,8 +9,10 @@
 #         return self.name
     
 # class UserProfile(models.Model):
+#    def __init__(self,username):
+#        self._username=username
+
 #     user = models.OneToOneField(User, on_delete=models.CASCADE)
-#     # Add any additional user profile fields if needed
 
 #     def __str__(self):
 #         return self.user.username
